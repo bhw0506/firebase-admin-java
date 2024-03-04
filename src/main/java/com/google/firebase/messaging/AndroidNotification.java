@@ -73,7 +73,7 @@ public class AndroidNotification {
   @Key("channel_id")
   private final String channelId;
   
-  @Key("image")
+  @Key("image_url")
   private final String image;
  
   @Key("ticker")
